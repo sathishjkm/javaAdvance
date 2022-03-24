@@ -1,5 +1,5 @@
 package com.inheritance;
-import com.inheritance.Girl;
+
 public class Humen {
     public static void main(String[] args){
         Girl Obj=new Girl("dhivya","mohan",24,"female");

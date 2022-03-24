@@ -3,9 +3,9 @@ import com.inheritance.Girl;
 public class Humen {
     public static void main(String[] args){
         Girl Obj=new Girl("dhivya","mohan",24,"female");
-        System.out.println(Obj.name);
-        System.out.println(Obj.father_name);
-        System.out.println(Obj.age);
-        System.out.println(Obj.gender);
+        System.out.println("name is:"+Obj.name);
+        System.out.println("father name is:"+Obj.father_name);
+        System.out.println("age is:"+Obj.age);
+        System.out.println("gender is:"+Obj.gender);
     }
 }

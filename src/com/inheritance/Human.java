@@ -1,6 +1,6 @@
 package com.inheritance;
-
-public class Humen {
+import com.inheritance.Girl;
+public class Human {
     public static void main(String[] args){
         Girl Obj=new Girl("dhivya","mohan",24,"female");
         System.out.println("name is:"+Obj.name);

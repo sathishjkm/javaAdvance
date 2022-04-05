@@ -1,5 +1,4 @@
 package com.inheritance;
-
 public class SportsMan extends CommanMan {
     public String player;
     public SportsMan(String name,int age,String city,String player){
